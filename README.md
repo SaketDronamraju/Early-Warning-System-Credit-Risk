@@ -80,7 +80,5 @@ Alerts are calibrated using **portfolio-based thresholds**, flagging the **top X
 ---
 
 
----
-
 ## 🧠 One-Line Summary
 *Built an early warning system using behavioral credit signals to flag loans likely to default within 6 months, deployed via an interactive Streamlit dashboard.*
