@@ -11,7 +11,7 @@ An interactive **Streamlit dashboard** is deployed to visualize risk scores, ale
 ---
 
 ## 🚀 Live Demo
-🔗 **Streamlit App:** *(add your deployed Streamlit Cloud URL here)*
+🔗 **Streamlit App:** *(https://early-warning-system-credit-risk-itktmgg3otmj3ybns9czxk.streamlit.app/)*
 
 ---
 
