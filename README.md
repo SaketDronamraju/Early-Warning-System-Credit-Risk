@@ -79,15 +79,6 @@ Alerts are calibrated using **portfolio-based thresholds**, flagging the **top X
 
 ---
 
-## 📁 Project Structure
-```
-early-warning-system-credit-risk/
-│
-├── app.py
-├── ews_scores.csv
-├── requirements.txt
-└── README.md
-```
 
 ---
 
